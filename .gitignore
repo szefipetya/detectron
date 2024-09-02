@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+content/
+detectron2/
 # C extensions
 *.so
-
+*.sh
+.conda/
 # Distribution / packaging
 .Python
 build/
